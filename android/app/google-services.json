@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1055396536783",
+    "project_id": "me-chat-a9b8d",
+    "storage_bucket": "me-chat-a9b8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055396536783:android:b811a2e99391717a0bf2ba",
+        "android_client_info": {
+          "package_name": "com.pranav.me_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055396536783-7orq90ekn6jub4i9l7b7m5obfdlua1cv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-4HXsaHtO4G8YCyhToOrF4UzEXsG7Wm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055396536783-7orq90ekn6jub4i9l7b7m5obfdlua1cv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
